@@ -1,0 +1,13 @@
+.nav-links > span {
+  margin-right: 2rem;
+}
+.nav-links > span > a {
+  text-decoration: none;
+  color: #e9e6e8;
+}
+.nav-links > span > a:hover {
+  color: #fff;
+}
+.nav-links {
+  background-color: red;
+}
